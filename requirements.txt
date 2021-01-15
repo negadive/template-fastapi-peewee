@@ -5,3 +5,5 @@ peewee==3.14.0
 pydantic==1.7.3
 starlette==0.13.6
 uvicorn==0.13.3
+black==20.8b1
+isort==5.7.0
