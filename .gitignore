@@ -149,3 +149,5 @@ cython_debug/
 # Local History for Visual Studio Code
 .history/
 
+# virtualenv project config
+.project

@@ -1,0 +1,3 @@
+"""
+Untuk common function
+"""
